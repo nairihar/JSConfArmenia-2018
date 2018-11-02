@@ -24,3 +24,4 @@ Source code and slide of JavaScript Conference Armenia 2018
 > - https://github.com/request/request/issues/2491
 > - https://github.com/nodejs/node/blob/master/src/node_options.h#L119
 > - https://github.com/nodejs/node/blob/master/lib/timers.js#L427
+> - https://www.youtube.com/watch?v=Yb9rnP2MhYc
