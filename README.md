@@ -1,10 +1,9 @@
-# JSConfArmenia-2018
+# JSConfArmenia-2018 / You Don't Know Node.js EventLoop
 Source code and slide of JavaScript Conference Armenia 2018
 
 ----------
 ## Introduction
 
-...
 > - Node.js EventLoop, more detailed about the magic of libuv
 > - Deep dive into EventLoop queues
 > - About working style of the nextTick, Promise, setTimeout, setImmediate and all other async I/O processes
