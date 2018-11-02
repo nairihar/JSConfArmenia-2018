@@ -1,0 +1,12 @@
+{
+  "name": "jsconf18",
+  "version": "1.0.0",
+  "description": "Source code and slide of JavaScript Conference Armenia 2018",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.2"
+  }
+}
